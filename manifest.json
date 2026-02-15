@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hd Wallet",
+  "version": "1.0.0",
+  "description": "Your extension description",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
+  ]
+}
