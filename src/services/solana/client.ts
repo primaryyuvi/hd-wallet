@@ -14,5 +14,5 @@ class SolanaClient {
 }
 
 export const solanaClient = new SolanaClient(
-  SOLANA_RPC.devnet
+  SOLANA_RPC.mainnet
 );
